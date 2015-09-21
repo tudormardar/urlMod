@@ -1,7 +1,6 @@
 <html>
 <head>
 
-<!-- comentariu de test -->
 
 <style type="text/css">
 
