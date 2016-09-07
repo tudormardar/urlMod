@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<!-- comentariu de test -->
+<!-- this is URLminator -->
 
 <style type="text/css">
 
